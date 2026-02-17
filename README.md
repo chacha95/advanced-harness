@@ -10,31 +10,25 @@ Claude Code를 위한 고급 스킬/커맨드 모음 모노레포. FastAPI 백�
 | **Frontend** | Next.js 15 (App Router), React 19, TypeScript, Tailwind CSS 4, MUI |
 | **AI Agent** | Pydantic AI, SSE streaming |
 
-## Skills (21개)
+## Skills (15개)
 
 | # | 스킬 | 설명 |
 |---|------|------|
-| 1 | `programmatic-seo` | 템플릿+데이터로 SEO 최적화 페이지를 대량 생성하는 12가지 플레이북 가이드 |
-| 2 | `remotion-best-practices` | React 기반 영상 제작 프레임워크 Remotion의 애니메이션/오디오/자막 등 27개 도메인 룰 |
-| 3 | `vercel-react-best-practices` | Vercel 엔지니어링 기준 React/Next.js 성능 최적화 57개 룰 (워터폴 제거, 번들, 리렌더 등) |
-| 4 | `web-design-guidelines` | Vercel Web Interface Guidelines 기반 UI 코드 접근성/UX 리뷰 |
-| 5 | `brand-guidelines` | Anthropic 공식 브랜드 컬러와 타이포그래피(Poppins/Lora) 적용 |
-| 6 | `copyright-safe-style-transfer` | Replicate FLUX Pro 모델로 이미지 스타일을 저작권 안전하게 변환 |
-| 7 | `docx` | Word 문서(.docx) 생성/편집/분석 - docx-js 생성, XML 직접 편집 |
-| 8 | `error-tracking` | Sentry v8 에러 트래킹 및 성능 모니터링 통합 패턴 가이드 |
-| 9 | `evan-insight-blog-writer` | evan-insight 블로그용 투자 분석 글 작성 - 어그로 두괄식, 쉬운 용어 |
-| 10 | `frontend-design` | 독창적이고 프로덕션급 프론트엔드 UI 생성 디자인 가이드 |
-| 11 | `internal-comms` | 사내 커뮤니케이션(3P 업데이트, 뉴스레터, FAQ 등) 작성 가이드 |
-| 12 | `mcp-builder` | MCP(Model Context Protocol) 서버 Python/TypeScript 구축 가이드 |
-| 13 | `mermaid` | Mermaid 다이어그램 생성 - 플로우차트, ER, 간트 등 23종 지원 |
-| 14 | `pdf` | PDF 읽기/병합/분할/회전/워터마크/생성/OCR 등 전방위 처리 |
-| 15 | `ppt-brand-guidelines` | VRL 프레젠테이션 브랜드 가이드라인 (라임그린 + 다크네이비) |
-| 16 | `pptx` | PowerPoint 생성/편집/분석 - HTML→PPTX 변환, OOXML 편집 |
-| 17 | `pytest-backend-testing` | FastAPI 백엔드 pytest 테스팅 가이드 - 유닛/통합/비동기/목킹 |
-| 18 | `skill-developer` | Claude Code 스킬 생성/관리 가이드 - 트리거, 훅, 500줄 룰 |
-| 19 | `threads-writer` | Threads SNS 글쓰기 - 11가지 템플릿으로 자동 작성 |
-| 20 | `xlsx` | 엑셀 스프레드시트 생성/편집/분석 - openpyxl/pandas, 수식 검증 |
-| 21 | `yebi-startup-writer` | 예비창업패키지 사업계획서 PSST 프레임워크 기반 docx 직접 작성 |
+| 1 | `brand-guidelines` | Anthropic 공식 브랜드 컬러와 타이포그래피(Poppins/Lora) 적용 |
+| 2 | `docx` | Word 문서(.docx) 생성/편집/분석 - docx-js 생성, XML 직접 편집 |
+| 3 | `error-tracking` | Sentry v8 에러 트래킹 및 성능 모니터링 통합 패턴 가이드 |
+| 4 | `fastapi-backend-guidelines` | FastAPI 백엔드 DDD 개발 가이드 - SQLModel ORM, 레포지토리 패턴, async/await |
+| 5 | `frontend-design` | 독창적이고 프로덕션급 프론트엔드 UI 생성 디자인 가이드 |
+| 6 | `mermaid` | Mermaid 다이어그램 생성 - 플로우차트, ER, 간트 등 23종 지원 |
+| 7 | `nextjs-frontend-guidelines` | Next.js 15 프론트엔드 가이드 - App Router, shadcn/ui, Tailwind CSS 4, 한국어 로컬라이제이션 |
+| 8 | `pdf` | PDF 읽기/병합/분할/회전/워터마크/생성/OCR 등 전방위 처리 |
+| 9 | `ppt-brand-guidelines` | VRL 프레젠테이션 브랜드 가이드라인 (라임그린 + 다크네이비) |
+| 10 | `pptx` | PowerPoint 생성/편집/분석 - HTML→PPTX 변환, OOXML 편집 |
+| 11 | `pytest-backend-testing` | FastAPI 백엔드 pytest 테스팅 가이드 - 유닛/통합/비동기/목킹 |
+| 12 | `skill-developer` | Claude Code 스킬 생성/관리 가이드 - 트리거, 훅, 500줄 룰 |
+| 13 | `vercel-react-best-practices` | Vercel 엔지니어링 기준 React/Next.js 성능 최적화 가이드 |
+| 14 | `web-design-guidelines` | Vercel Web Interface Guidelines 기반 UI 코드 접근성/UX 리뷰 |
+| 15 | `yebi-startup-writer` | 예비창업패키지 사업계획서 PSST 프레임워크 기반 docx 직접 작성 |
 
 ## Commands (3개)
 
